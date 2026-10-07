@@ -1,0 +1,21 @@
+sku,product_name,category,unit_cost,avg_selling_price,lead_time_months,on_hand,on_order,avg_stock_age_days
+NK-RUN-01,Pegasus,Running,43,75,5,116300,35300,38
+NK-RUN-02,Vomero,Running,50,85,5,76300,52000,31
+NK-RUN-03,Invincible Run,Running,55,95,5,45400,24500,45
+NK-RUN-04,Structure,Running,42,72,5,36500,14600,52
+NK-BB-01,LeBron Signature,Basketball,60,100,6,30900,2800,96
+NK-BB-02,Giannis Freak,Basketball,36,62,6,31800,9800,74
+NK-BB-03,Sabrina,Basketball,38,65,6,24900,12900,40
+NK-JD-01,Air Jordan 1 High,Jordan,52,90,6,110900,5300,118
+NK-JD-02,Air Jordan 4,Jordan,58,105,6,48900,7400,58
+NK-JD-03,Jordan Luka,Jordan,40,68,6,20000,3700,49
+NK-SW-01,Air Force 1,Sportswear,34,58,4,165800,52800,71
+NK-SW-02,Dunk Low,Sportswear,34,60,4,184900,5200,164
+NK-SW-03,Air Max 90,Sportswear,40,70,4,64600,2900,131
+NK-SW-04,Tech Fleece Hoodie,Sportswear,30,65,3,81100,31300,63
+NK-SW-05,Club Fleece Crew,Sportswear,14,32,3,88100,34400,55
+NK-TR-01,Metcon,Training,38,66,5,28000,11300,61
+NK-TR-02,Dri-FIT Tee,Training,7,17,3,119500,51000,42
+NK-TR-03,Pro Tights,Training,12,27,3,48000,19600,37
+NK-CV-01,Chuck Taylor All Star,Converse,15,30,4,171600,3000,152
+NK-CV-02,Chuck 70,Converse,22,42,4,75600,4500,139
