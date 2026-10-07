@@ -9,7 +9,9 @@ which management said cut roughly five points from reported results in Q3 fiscal
 Gross margin fell 130 basis points to 40.2% that quarter, and inventory rose 5% to
 $7.8 billion between May 31 and August 31, 2026.
 
-## Key Findings
+## Key Findings 
+![Excess inventory by product](output/excess_inventory.png)
+![Months of supply by product](output/months_of_supply.png)
 - **$5.1M of excess inventory sits in just 5 of 20 products.** Dunk Low alone holds
   $2.9M, with 7.4 months of supply against a 4-month threshold.
 - **The overstock is in aging classics, not growth lines.** Dunk Low, Chuck Taylor,
