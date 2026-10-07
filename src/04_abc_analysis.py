@@ -1,0 +1,12 @@
+import sqlite3
+import pandas as pd
+
+conn = sqlite3.connect("data/nike_inventory.db")
+
+with open("sql/03_abc_analysis.sql") as f:
+    query = f.read()
+
+result = pd.read_sql(query, conn)
+print(result.to_string(index=False))
+
+conn.close()
